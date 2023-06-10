@@ -1,1 +1,23 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homework8</title>
+</head>
+<body>
+    <h1>Мій розклад уроків.</h1>
+    <p> <u>Всі мої уроки</u> </p>
+    <img src="роз.jpg" alt="Розлкад уроків">
+<ol start="5">
+<li>Математика</li>
+<li>Англ. мова</li>
+<li>Укр. мова</li>
+<li>Майнкрафт з програмуванням</li>
+<li>Софт скіл</li>
+<li>Фрон-енд</li></ol>
+<p>Розклад занять — документ, що регламентує трудовий ритм і впливає на творчу віддачу вчителів (викладачів); розглядається як фактор оптимізації навчального процесу.</p>
+<a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%BA%D0%BB%D0%B0%D0%B4_%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D1%8C"> <u>Дізнатися більше можна тут</u> </a>
+</body>
+</html>
